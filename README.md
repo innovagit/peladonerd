@@ -3,6 +3,7 @@
 <a href="https://slack.peladonerd.com/"><img src="https://slack.peladonerd.com/badge.svg"></a>
 
 # Pelado Nerd repo
+Rickmaste
 
 <img src="./assets/peladonerd.png" width="100"/>
 
